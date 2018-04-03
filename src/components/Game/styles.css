@@ -1,0 +1,17 @@
+.header {
+  padding-left: 20px;
+}
+
+.board-container {
+  text-align: center;
+}
+
+.emoji {
+  cursor: pointer;
+  font-size: 30px;
+  line-height: 40px;
+}
+
+.emoji:hover {
+  font-size: 32px;
+}
